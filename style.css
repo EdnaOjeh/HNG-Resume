@@ -5,7 +5,9 @@ body{
     float: center;
     font-family:'Segoe UI','Open Sans','Helvetica Neue',sans-serif; 
     text-align: center;
-    margin: 0px;
+    margin: 50px;
+    Position: Relative;
+    Display: block;
     
 }
 .container{
