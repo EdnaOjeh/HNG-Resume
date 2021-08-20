@@ -6,19 +6,18 @@ body{
     font-family:'Segoe UI','Open Sans','Helvetica Neue',sans-serif; 
     text-align: center;
     margin: 50px;
-    Position: Relative;
-    Display: block;
     
 }
 .container{
     background-color:#ffffff;
-    margin: 0 200px;
+    margin: 0 ;
     padding: 40px 40px 40px 40px;
     position: relative;
     Min-width: 800px;
     Min-height: 500px;
     border: 2px solid #676064;
     overflow: scroll;
+    Display: block;
    }
    dt{
        text-decoration: underline solid #8f825e 3px;
